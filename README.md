@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 你好，世界 👋
 
-- :🔨  Focusing on Swift & iOS & React.js & Vue.js
+- 🔨   Focusing on Swift & iOS & React.js & Vue.js
 
 <div>
   <a href="/" align="left">
