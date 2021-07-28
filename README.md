@@ -1,4 +1,4 @@
-### Hi there 👋 ，I'm Genie Sun 😄
+### Hi there 👋 ，I'm Julian 😄
 
 <!--
 **Gensun/Gensun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
