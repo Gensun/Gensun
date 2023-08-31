@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 
 
 ## Stargazers over time
+
 [![Stargazers over time](https://starchart.cc/Gensun/Gensun.svg)](https://starchart.cc/Gensun/Gensun)
