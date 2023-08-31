@@ -31,6 +31,5 @@ Here are some ideas to get you started:
 
 
 ## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/Gensun/NetworkLayer.svg)](https://starchart.cc/Gensun/NetworkLayer)
-[![Stargazers over time](https://starchart.cc/luckyzhz/Software-Designer.svg)](https://starchart.cc/luckyzhz/Software-Designer)
+  
+  [![Stargazers over time](https://starchart.cc/Gensun/NetworkLayer.svg)](https://starchart.cc/Gensun/NetworkLayer)
