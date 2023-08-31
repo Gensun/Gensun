@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 </div>
 
 
+
 ## Stargazers over time
-  
-  [![Stargazers over time](https://starchart.cc/Gensun/NetworkLayer.svg)](https://starchart.cc/Gensun/NetworkLayer)
+
+[![Stargazers over time](https://starchart.cc/Gensun/NetworkLayer.svg)](https://starchart.cc/Gensun/NetworkLayer)
