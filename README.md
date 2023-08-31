@@ -28,3 +28,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=Gensun&count_private=true&show_icons=true&icon_color=CE1D2D&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues&hide_border=true&include_all_commits=true" />
   </a>
 </div>
+
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/Gensun/Gensun.svg)](https://starchart.cc/Gensun/Gensun)
